@@ -1,0 +1,1 @@
+// helper class/struct to hold file metadata
